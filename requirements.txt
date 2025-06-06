@@ -1,0 +1,6 @@
+flask
+requests
+pandas
+flask-cors
+# Reemplaza google-cloud-bigquery por la versión de github si así lo requiere tu entorno:
+# git+https://github.com/googleapis/python-bigquery.git
